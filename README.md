@@ -2,7 +2,7 @@
 Semester Project CSN 254
 
 Problem Statement
---------------------
+-----------------
 Draw on textual screen by reading the commands fromstandard input. Type a command (ormore commands) to standard input and press enter toexecute them. Implement the followingcommands.
   *  h : displays help on stdout
   *  w, a, s, d : up, left, down, right 
@@ -47,7 +47,7 @@ Examples
 Automating 
 ----------
 
-To input long texts like this
+To input long texts like this, which can be made using [ASCII ART Generator](https://patorjk.com/software/taag)
 
 ```
   _______        _              _   _____                     
@@ -61,3 +61,14 @@ To input long texts like this
 <br/>
 
 Use [Script](./Convert.py) and input the text using an [input file](./input.txt) and get the corresponding [output](./output.txt) in form of the commands. Which can be directly pasted on the command line to be run.
+
+<br/>
+
+Other Group Members
+-------------------
+
+* [Rahul](https://github.com/rahulag2411)
+* [Harsh](https://github.com/harsh1454)
+* [Jinendra](https://github.com/Jinendra-verma)
+* [Ritikesh]
+* [Jatin]
