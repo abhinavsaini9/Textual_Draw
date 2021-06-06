@@ -1,8 +1,6 @@
 # Textual_Draw
 Semester Project CSN 254
 
-<br>
-
 Problem Statement
 --------------------
 Draw on textual screen by reading the commands fromstandard input. Type a command (ormore commands) to standard input and press enter toexecute them. Implement the followingcommands.
@@ -62,4 +60,4 @@ To input long texts like this
 ```
 <br/>
 
-Use [Script](./Convert.py) and input the text using an input file and get the corresponding output in form of the commands. Which can be directly pasted on the command line.
+Use [Script](./Convert.py) and input the text using an [input file](./input.txt) and get the corresponding [output](./output.txt) in form of the commands. Which can be directly pasted on the command line to be run.
