@@ -1,5 +1,5 @@
 # Textual_Draw
-Semester Project CSN 254
+Semester Project CSN 252
 
 Problem Statement
 -----------------
